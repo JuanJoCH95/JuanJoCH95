@@ -7,8 +7,8 @@ I'm a professional software developer with a solid academic background and more 
 - **Programming Languages:** Java, Python, JavaScript
 - **Back-end:** Spring Boot
 - **Front-end:** Angular
-- **Databases:** Oracle SQL, MySQL
+- **Databases:** Oracle, MySQL
 - **Version control:** Git and GitHub
 - **Tools:** IntelliJ IDEA, Eclipse, Visual Studio Code, DBaver, Postman
-- **Other:** Scrum, API REST, DevOps, Excel
+- **Other:** Scrum, API REST, DevOps
 - **English level:** B1
