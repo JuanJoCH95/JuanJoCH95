@@ -9,6 +9,6 @@ I'm a professional software developer with a solid academic background and more 
 - **Front-end:** Angular
 - **Databases:** Oracle, MySQL
 - **Version control:** Git and GitHub
-- **Tools:** IntelliJ IDEA, Eclipse, NetBeans, Visual Studio Code, DBaver, Postman
-- **Other:** Scrum, API REST, DevOps
+- **Tools:** IntelliJ IDEA, Eclipse, NetBeans, Visual Studio Code, DBaver, Postman, Android Studio
+- **Other:** Scrum, DevOps
 - **English level:** B1
